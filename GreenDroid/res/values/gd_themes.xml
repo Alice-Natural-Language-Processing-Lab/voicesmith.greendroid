@@ -75,7 +75,7 @@
 		<item name="gdSegmentedHostStyle">@style/GreenDroid.Widget.SegmentedHost</item>
 		
 		<item name="gdActionBarTitleColor">@android:color/white</item>
-		<item name="gdActionBarBackground">@color/gd_action_bar_tint</item>
+		<item name="gdActionBarBackground">@drawable/gd_action_bar_tint</item>
 		<item name="gdActionBarItemBackground">@drawable/gd_action_bar_item</item>
 		<item name="gdActionBarDividerDrawable">@color/gd_action_bar_divider_tint</item>
 		<item name="gdActionBarDividerWidth">1px</item>
@@ -173,7 +173,7 @@
 		<item name="gdSegmentedHostStyle">@style/GreenDroid.Widget.SegmentedHost</item>
 		
 		<item name="gdActionBarTitleColor">@android:color/white</item>
-		<item name="gdActionBarBackground">@color/gd_action_bar_tint</item>
+		<item name="gdActionBarBackground">@drawable/gd_action_bar_tint</item>
 		<item name="gdActionBarItemBackground">@drawable/gd_action_bar_item</item>
 		<item name="gdActionBarDividerDrawable">@color/gd_action_bar_divider_tint</item>
 		<item name="gdActionBarDividerWidth">1px</item>
